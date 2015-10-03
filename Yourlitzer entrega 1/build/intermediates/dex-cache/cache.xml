@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Alexis/yourlitzer/YourLitzer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Alexis/yourlitzer/YourLitzer/app/build/intermediates/pre-dexed/debug/classes-f6f16d924a32753ebb56b93b2dfdd171d750abb7.jar" />
+    </item>
+    <item
+        jar="/Users/Alexis/yourlitzer/YourLitzer/app/build/intermediates/exploded-aar/com.viewpagerindicator/library/2.4.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="88e8e18d365173ad04a543d76c157e0b644f0b3f">
+        <dex dex="/Users/Alexis/yourlitzer/YourLitzer/app/build/intermediates/pre-dexed/debug/classes-ad30127e56b8c5e2da64a7a3dac02b7db75771cf.jar" />
+    </item>
+    <item
+        jar="/Users/Alexis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Alexis/yourlitzer/YourLitzer/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-4ece2a3c775b1bdce2bc320aa858fd8bc959d18c.jar" />
+    </item>
+    <item
+        jar="/Users/Alexis/Documents/GeekyWeb/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Alexis/Documents/GeekyWeb/app/build/intermediates/pre-dexed/debug/classes-b43c2aebf387cc71f9b54970ba219fdbddf49923.jar" />
+    </item>
+    <item
+        jar="/Users/Alexis/Documents/GeekyWeb/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Alexis/Documents/GeekyWeb/app/build/intermediates/pre-dexed/debug/classes-e80a98a73682fe035455d8e1e20d2e68c2bc4d1a.jar" />
+    </item>
+    <item
+        jar="/Users/Alexis/yourlitzer/YourLitzer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Alexis/yourlitzer/YourLitzer/app/build/intermediates/pre-dexed/debug/classes-1da9b372ddabb522526999aeaacaf29e9a3be6dd.jar" />
+    </item>
+    <item
+        jar="/Users/Alexis/yourlitzer/YourLitzer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Alexis/yourlitzer/YourLitzer/app/build/intermediates/pre-dexed/debug/classes-1da9b372ddabb522526999aeaacaf29e9a3be6dd.jar" />
+    </item>
+    <item
+        jar="/Users/Alexis/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Alexis/Documents/GeekyWeb/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ec414131458abaa6d06b13ef2cfd8e5822061fc6.jar" />
+    </item>
+    <item
+        jar="/Users/Alexis/yourlitzer/YourLitzer/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Alexis/yourlitzer/YourLitzer/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-7a18dc3670fea49a103ab0ec6ec704138825650e.jar" />
+    </item>
+    <item
+        jar="/Users/Alexis/Documents/GeekyWeb/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Alexis/Documents/GeekyWeb/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-225a5af3546be87271d1c3071d8e2f5c5b5ec80c.jar" />
+    </item>
+
+</items>

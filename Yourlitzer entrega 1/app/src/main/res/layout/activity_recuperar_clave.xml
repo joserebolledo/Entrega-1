@@ -1,0 +1,55 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dip"
+    android:id="@+id/layout1"
+    android:background="#FFFFFF"
+
+    android:weightSum="1">
+    <!--  Logo -->
+
+    <!--  Email Label -->
+
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#372c24"
+        android:text="Mail"
+        android:layout_marginTop="25dip"
+        />
+
+    <EditText android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip"
+        android:layout_marginBottom="20dip"
+        android:singleLine="true"
+        android:id="@+id/edmail"
+        />
+
+    <!--  Password Label -->
+
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#372c24"
+        android:text="Password"/>
+
+    <EditText android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dip"
+        android:singleLine="true"
+        android:password="true"
+        android:id="@+id/edpassword2"
+
+        />
+
+    <!-- Login button -->
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dip"
+        android:text="Recuperar clave"
+        android:id="@+id/Bclave"
+        />
+
+</LinearLayout>
